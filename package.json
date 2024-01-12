@@ -10,10 +10,18 @@
     "run": "next start",
     "dev": "next dev"
   },
-  "keywords": ["browser", "privacy", "CCPA"],
+  "keywords": [
+    "browser",
+    "privacy",
+    "CCPA"
+  ],
   "author": "Superbloom Design",
   "license": "ISC",
   "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.18.0",
     "glob": "^10.2.3",
     "next": "^13.4.1",
     "react": "^18.2.0",
