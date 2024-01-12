@@ -1,7 +1,7 @@
 {
-  "name": "next-chrome-starter",
+  "name": "ccpa-helper",
   "version": "0.0.1",
-  "description": "Next.js Chrome Extension Starter, Demo Example by ibnzUK. https://github.com/ibnzUK/next-chrome-starter",
+  "description": "POC for Secure Justice",
   "main": "index.js",
   "scripts": {
     "build": "npm run prep",
@@ -10,8 +10,8 @@
     "run": "next start",
     "dev": "next dev"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["browser", "privacy", "CCPA"],
+  "author": "Superbloom Design",
   "license": "ISC",
   "dependencies": {
     "glob": "^10.2.3",
